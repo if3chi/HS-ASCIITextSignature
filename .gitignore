@@ -23,3 +23,15 @@
 /Problems/Right Rotation/task-info.yaml
 /Problems/Right Rotation/task-remote-info.yaml
 /.idea/vcs.xml
+/Problems/Next even number/task-info.yaml
+/Problems/Next even number/task-remote-info.yaml
+/.idea/modules/Problems/Next even number/ASCII_Text_Signature.Problems-Next_even_number.iml
+/.idea/modules/Problems/Next even number/ASCII_Text_Signature.Problems-Next_even_number.main.iml
+/.idea/modules/Problems/Next even number/ASCII_Text_Signature.Problems-Next_even_number.test.iml
+/.idea/libraries/Gradle__junit_junit_4_12.xml
+/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml
+/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml
+/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_72.xml
+/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_72.xml
+/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_72.xml
+/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_3_72.xml
