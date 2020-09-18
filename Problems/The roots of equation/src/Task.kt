@@ -10,7 +10,7 @@ fun main(args: Array<String>) {
 
     val (a, b, c, d) = IntArray(4) { scanner.nextInt() }
 
-    for (x in (0..1000).map {it.toDouble()}) {
+    for (x in (0..1000).map { it.toDouble() }) {
         if (checkRoot(a, b, c, d, x)) println(x.toInt())
     }
 }
