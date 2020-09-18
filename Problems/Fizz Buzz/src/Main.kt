@@ -12,6 +12,15 @@ fun usingIf(n: Int) {
         }
 }
 
+fun usingWhen(n: Int) {
+    println(when {
+        n % 3 == 0 && n % 5 == 0 -> "FizzBuzz"
+        n % 5 == 0 -> "Buzz"
+        n % 3 == 0 -> "Fizz"
+        else -> n
+    })
+}
+
 fun main(args: Array<String>) {
     val scanner = Scanner(System.`in`)
 
@@ -19,6 +28,7 @@ fun main(args: Array<String>) {
     val (a, b) = IntArray(2) { scanner.nextInt() }
 
     for (n in a..b) {
-        usingIf(n)
+        usingWhen(n)
+//        usingIf(n)
     }
 }
