@@ -7,9 +7,5 @@ fun main(args: Array<String>) {
     val cups = scanner.nextInt()
     val weekType = scanner.nextBoolean()
 
-    if (weekType) {
-        print(cups in 15..25)
-    } else {
-        print(cups in 10..20)
-    }
+    print(cups in 15..25 && weekType || cups in 10..20 && !weekType)
 }
