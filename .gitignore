@@ -70,3 +70,5 @@
 /.idea/modules/Problems/Balance checker/ASCII_Text_Signature.Problems-Balance_checker.iml
 /.idea/modules/Problems/Balance checker/ASCII_Text_Signature.Problems-Balance_checker.main.iml
 /.idea/modules/Problems/Balance checker/ASCII_Text_Signature.Problems-Balance_checker.test.iml
+/Problems/Balance checker/out/production/classes/MainKt.class
+/Problems/Balance checker/out/production/classes/META-INF/Problems-Balance_checker.kotlin_module
